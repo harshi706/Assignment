@@ -6,4 +6,4 @@ Test Cases:
 5- Verify if the website handles errors, such as providing alternate messages when a user submits a form with missing or invalid data.
 6- Verify if the user can navigate back without facing issues.
 7- Verify if the website follows basic guidelines, such as providing alternative text for images.
-These are some of the test cases mentioned , I want to debug more of them to upskill more.
+These are some of the test cases mentioned , I will debug more of them to upskill more.
